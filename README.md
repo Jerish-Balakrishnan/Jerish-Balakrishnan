@@ -24,7 +24,7 @@ LEETCODE BADGES
 <img src="https://leetcard.jacoblin.cool/Jerish_Balakrishnan?ext=contest&font=Dancing_Script" alt="LeetCode Stats"/>
 </td>
 <td>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Jerish_Balakrishnan&theme=sky" alt="LeetCode Badges"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Jerish_Balakrishnan&theme=leafy" alt="LeetCode Badges"/>
 </td>
 </tr>
 </table>
