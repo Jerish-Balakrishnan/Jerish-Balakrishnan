@@ -11,24 +11,6 @@
 
 <table>
 <tr>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-LEETCODE STATS
-</small>
-</p>
-</th>
-<th align="center">
-<img width="441" height="1">
-<p> 
-<small>
-LEETCODE BADGES
-</small>
-</p>
-</th>
-</tr>
-<tr>
 <td>
 <img src="https://leetcard.jacoblin.cool/Jerish_Balakrishnan?ext=contest&font=Dancing_Script" alt="LeetCode Stats"/>
 </td>
