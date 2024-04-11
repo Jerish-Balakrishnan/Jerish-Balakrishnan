@@ -6,7 +6,7 @@
 <img width="441" height="1">
 <p> 
 <small>
-LeetCode Stats
+LEETCODE STATS
 </small>
 </p>
 </th>
@@ -14,7 +14,7 @@ LeetCode Stats
 <img width="441" height="1">
 <p> 
 <small>
-LeetCode Badges
+LEETCODE BADGES
 </small>
 </p>
 </th>
