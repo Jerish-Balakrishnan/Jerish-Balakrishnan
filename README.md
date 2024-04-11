@@ -4,6 +4,10 @@
 * I am proficient in programming languages like Python, PHP and Java
 * I have solved 200+ problems on LeetCode and 100+ problems on HackerRank
 * Mentored fresh college graduates to become successful developers
+* LeetCode Profile: https://leetcode.com/Jerish_Balakrishnan/
+* HackerRank Profile: https://www.hackerrank.com/profile/jerishoffl
+* GitHub Profile: https://github.com/Jerish-Balakrishnan
+* LinkedIn Profile: https://www.linkedin.com/in/jerishoffl/
 
 <table>
 <tr>
