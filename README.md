@@ -3,6 +3,7 @@
 * My name is Jerish Balakrishnan and i have 6+ years of software development experience
 * I am proficient in programming languages like Python, PHP and Java
 * I have solved 200+ problems on LeetCode and 100+ problems on HackerRank
+* Mentored fresh college graduates to become successful developers
 
 <table>
 <tr>
