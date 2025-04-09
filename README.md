@@ -9,6 +9,7 @@
 * GitHub Profile: https://github.com/Jerish-Balakrishnan
 * LinkedIn Profile: https://www.linkedin.com/in/jerishoffl/
 * Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=x3F1tzMAAAAJ
+* ORCID Profile: https://orcid.org/0009-0003-9370-118X
 
 <table>
 <tr>
