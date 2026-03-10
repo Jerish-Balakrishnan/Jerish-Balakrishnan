@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* My name is **Jerish Balakrishnan** and i have **7+ years of software development experience**
+* My name is **Jerish Balakrishnan** and i have **8+ years of software development experience**
 * I am proficient in programming languages like Python, PHP, JavaScript, and Java
 * I have solved 700+ problems on LeetCode and 100+ problems on HackerRank
 * Mentored fresh college graduates to become successful developers
